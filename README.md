@@ -11,3 +11,6 @@ After cloning inside the repo directory execute:
 git-lfs pull
 ```
 to replace the textual references with the actual files.
+
+Afterwards just run all of the steps in the training.ipynb , and you can rebuild the yolo model.
+After that you can export to ONNX format as well by running all of the steps in onnx_export.ipynb
