@@ -1,0 +1,7 @@
+frames/
+frames_labeled/
+frames_labeled_split/
+autodistill_yolo_training.ipynb
+yolo11n.pt
+caps_annotated.mp4
+v
