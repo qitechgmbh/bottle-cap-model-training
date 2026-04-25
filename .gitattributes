@@ -6,3 +6,4 @@ caps.mov filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.jpe\#g filter=lfs diff=lfs merge=lfs -text
 *.jpeg filter=lfs diff=lfs merge=lfs -text
+*.hef filter=lfs diff=lfs merge=lfs -text
